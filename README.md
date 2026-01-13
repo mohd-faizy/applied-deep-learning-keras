@@ -20,6 +20,10 @@
 
 This repository contains a comprehensive collection of notebooks implementing Deep Learning architectures using **Keras**. It covers a wide range of topics from foundational concepts to advanced techniques, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Transfer Learning.
 
+<div align="center">
+  <img src="_img/keras_map.png" alt="Keras Map" width="100%">
+</div>
+
 ## 📚 Notebook Catalog
 
 | Notebook | Description |

@@ -2,8 +2,11 @@ tensorflow
 numpy
 pandas
 matplotlib
+plotly
 seaborn
 scikit-learn
 scikeras
 ipykernel
 kagglehub
+
+nltk

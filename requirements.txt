@@ -1,8 +1,12 @@
 tensorflow
 numpy
 pandas
+
 matplotlib
 plotly
+pydot
+graphviz
+
 seaborn
 scikit-learn
 scikeras
@@ -10,3 +14,4 @@ ipykernel
 kagglehub
 
 nltk
+
